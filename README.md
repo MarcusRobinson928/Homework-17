@@ -1,2 +1,1 @@
-# Homework-17
-Assignment 17
+# Webpage grid layout using HTML and CSS
